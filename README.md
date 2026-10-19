@@ -1,7 +1,7 @@
 # CSS Art-Emoji
 This assignment is meant for you to solidify and show off your skills and knowledge for: positioning, transitions, animations, and CSS art.
 
-## Due Date: 28/10
+## Due Date: 30/10
 
 ## Submissions:  
 Create a live website with your IDE and submit a link to that site on Jupiter.

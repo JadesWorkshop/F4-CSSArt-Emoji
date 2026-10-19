@@ -16,13 +16,21 @@ You are to make a piece or art using HTML and a lot of CSS. It can be an emoji l
 
 Your page should be broken down into 4 sections:
 ### Section 1:
-Showing off your Best CSS art
+**Showing off your best CSS art.**   
+It is not required that this section have any transitions, animations, etc.   
+It should take up most if not all of the screen when your page loads. 
 ### Section 2:
-Showing off transitions, hovers, etc.  
+**Showing off transitions, hovers, etc.**   
+When the user hovers their mouse over the art you have here, something should be.  
+Be creative and try various transitions.
 ### Section 3:
-Showing off animations
+**Showing off animations. ** 
+This section should be moving/changing on its own.
 ### Section 4:
-A clean professional footer. *The footer should contain your name.*
+**A clean professional footer.**  
+*The footer should contain your name, year, HSFI logo, whatever else you think would be good.*
+
+*All sections should be separated either with different borders or some other method to make it clear it is a new section.*
 
 ## CSS Art Project Rubric
 

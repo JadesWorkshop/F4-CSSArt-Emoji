@@ -14,6 +14,16 @@ You are to make a piece or art using HTML and a lot of CSS. It can be an emoji l
 - Animations
 - Hover techniques
 
+Your page should be broken down into 4 sections:
+### Section 1:
+Showing off your Best CSS art
+### Section 2:
+Showing off transitions, hovers, etc.  
+### Section 3:
+Showing off animations
+### Section 4:
+A clean professional footer. *The footer should contain your name.*
+
 ## CSS Art Project Rubric
 
 | Criteria | 0 (Fail) | 1 (75%) | 2 (85%) | 3 (95%) | 3+ (100%) | 

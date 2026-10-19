@@ -6,6 +6,14 @@ This assignment is meant for you to solidify and show off your skills and knowle
 ## Submissions:  
 Create a live website with your IDE and submit a link to that site on Jupiter.
 
+## Expectations:  
+Use this link as a starting point: [codeHS CSS Art](https://codehs.com/tutorial/mattarnold/css-art)
+You are to make a piece or art using HTML and a lot of CSS. It can be an emoji like you see in the link above, or it can be any piece of art you want. Be creative and have fun with this!
+- I am expecting to see a variety of shapes used.
+- Transitions
+- Animations
+- Hover techniques
+
 ## CSS Art Project Rubric
 
 | Criteria | 0 (Fail) | 1 (75%) | 2 (85%) | 3 (95%) | 3+ (100%) | 

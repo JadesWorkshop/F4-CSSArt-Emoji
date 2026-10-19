@@ -24,13 +24,18 @@ It should take up most if not all of the screen when your page loads.
 When the user hovers their mouse over the art you have here, something should be.  
 Be creative and try various transitions.
 ### Section 3:
-**Showing off animations. ** 
+**Showing off animations.**   
 This section should be moving/changing on its own.
 ### Section 4:
 **A clean professional footer.**  
 *The footer should contain your name, year, HSFI logo, whatever else you think would be good.*
 
 *All sections should be separated either with different borders or some other method to make it clear it is a new section.*
+
+## Plan of attack
+1. Research/learning
+2. Planning/Designing
+3. Coding/debugging
 
 ## CSS Art Project Rubric
 
